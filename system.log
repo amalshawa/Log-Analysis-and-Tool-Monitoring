@@ -1,0 +1,8 @@
+2026-05-20 10:00:01 INFO System Boot Complete
+2026-05-20 10:00:05 INFO Vacuum Pump Started
+2026-05-20 10:00:07 INFO RF Generator Initialized
+2026-05-20 10:00:10 WARN Chamber Pressure Fluctuation
+2026-05-20 10:00:15 ERROR RF Generator Communication Timeout
+2026-05-20 10:00:16 ERROR Retry Attempt 1 Failed
+2026-05-20 10:00:18 ERROR Retry Attempt 2 Failed
+2026-05-20 10:00:20 CRITICAL Wafer Processing Halted
